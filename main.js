@@ -4,6 +4,7 @@ let inp1=document.querySelector('#inp1')
 let btn=document.querySelector('#btn')
 let btn1=document.querySelector('#btn1')
 let out=document.querySelector('.out')
+// New line of code
 let table=document.querySelector('#table')
 let p=document.querySelector('p')
 let select=document.querySelector('select')
