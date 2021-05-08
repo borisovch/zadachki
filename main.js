@@ -13,6 +13,7 @@ let select=document.querySelector('select')
     inp1.value=this.value
   })
   // tttrttrtttrt
+  // deewewrwyywuii
 // }
 
 // let arr=[1,2,3,4,5]
