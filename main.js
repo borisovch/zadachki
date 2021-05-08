@@ -1,3 +1,5 @@
+// https://softuni.bg/trainings/3362/programming-basics-with-javascript-april-2021/internal#lesson-27860
+
 let inp1=document.querySelector('#inp1')
 // let inp2=document.querySelector('#inp2')
 // let inp3=document.querySelector('#inp3')
