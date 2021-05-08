@@ -12,6 +12,7 @@ let select=document.querySelector('select')
   select.addEventListener('change',function(){
     inp1.value=this.value
   })
+  // tttrttrtttrt
 // }
 
 // let arr=[1,2,3,4,5]
